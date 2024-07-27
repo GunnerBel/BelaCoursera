@@ -1,5 +1,5 @@
 // Array of names
-var names = ["James", "John", "Dennis", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Bela"];
+var names = ["James", "John", "Dennis", "Mitali","Kevin", "Bela"];
 
 // Loop over the array of names
 for (var i = 0; i < names.length; i++) {
